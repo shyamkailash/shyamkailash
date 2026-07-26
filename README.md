@@ -6,7 +6,7 @@
 
 <br/>
 
-![B.E. Artificial Intelligence and Machine Learning](https://img.shields.io/badge/B.E.-Artificial%20Intelligence%20%26%20Machine%20Learning-6D28D9?style=flat-square&logo=academia&logoColor=white)
+![B.TECH. Artificial Intelligence and Machine Learning](https://img.shields.io/badge/B.E.-Artificial%20Intelligence%20%26%20Machine%20Learning-6D28D9?style=flat-square&logo=academia&logoColor=white)
 ![Software Engineering](https://img.shields.io/badge/Focus-Software%20Engineering-7C3AED?style=flat-square&logo=codecrafters&logoColor=white)
 ![India](https://img.shields.io/badge/Location-India-312E81?style=flat-square&logo=googlemaps&logoColor=white)
 
